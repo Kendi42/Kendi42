@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kendi Anyika @Kendi42
+- 👋 Hi, I’m Kendi Anyika [@Kendi42](https://github.com/Kendi42)
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Android and web based projects
