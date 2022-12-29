@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kendi Anyika @Kendi42
+- 👀 I’m interested in and mainly focus on Android development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on interesting projects that can make meaningful change
+- 📫 How to reach me: kendi.anyika@gmail.com
