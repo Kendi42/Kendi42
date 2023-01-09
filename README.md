@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kendi Anyika [@Kendi42](https://github.com/Kendi42)
 - 👀 I’m interested in Android development and Web development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Android and Web based projects
 - 📫 How to reach me:  
     -     kendi.anyika@gmail.com 
