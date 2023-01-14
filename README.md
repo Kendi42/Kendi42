@@ -8,3 +8,4 @@
 - 👩🏿‍💻 Check out some of my recent projects
     - https://github.com/Kendi42/Hostel-Booking-Application
     - https://github.com/Kendi42/Skincare-Recommendation-App
+    - https://github.com/Kendi42/Supermaket-Self-Checkout-App-PublicView
