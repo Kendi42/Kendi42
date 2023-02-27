@@ -14,3 +14,6 @@
          - https://github.com/Kendi42/Supermaket-Self-Checkout-App-PublicView
     - **A Web application for a small clinic**
         - https://github.com/dantheuri17/APP4035-Project-1
+
+- 💻 View All Projects
+    -   https://github.com/Kendi42?tab=repositories
