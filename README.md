@@ -7,7 +7,7 @@
     -     https://www.linkedin.com/in/kendi-anyika-80634145
 - 👩🏿‍💻 Check out some of my recent projects
 -  - **A Mobile application that allows shoppers to self checkout at a super market**
-        - https://github.com/Kendi42/Supermaket-Self-Checkout-App-PublicView
+        - https://github.com/Kendi42/Supermarket-Self-Checkout-App
     - **A Mobile application for students to book their dorm rooms**
         - https://github.com/Kendi42/Hostel-Booking-Application 
     -  **A Mobile application that acts as a pocket dermatologist and recommends skincare products**
