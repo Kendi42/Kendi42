@@ -6,7 +6,7 @@
     -     kendi.anyika@gmail.com 
     -     https://www.linkedin.com/in/kendi-anyika-80634145
 - 👩🏿‍💻 Check out some of my recent projects
-    - **A Web app enabling small businesses to sell products online and reach new customers.**
+    - **A Web app enabling small businesses to sell products online and reach new customers.🌟**
         - https://github.com/Kendi42/Small-Business-Ecommerce-Site
     - **A Mobile application that allows shoppers to self checkout at a super market**
         - https://github.com/Kendi42/Supermarket-Self-Checkout-App
